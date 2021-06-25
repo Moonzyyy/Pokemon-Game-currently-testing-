@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5yS57C/U9FzZiAwzGm6BE7xDunbZAaI3YAERhgSjkKuaKAcGNVL1Z8kR5JHh5CH4Dav0oEjYu/YtAsg71vOgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\Pokemon Server\\Pokemon Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

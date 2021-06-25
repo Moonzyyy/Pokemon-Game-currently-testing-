@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.AssemblyInfo.cs
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Pokemon Server\bin\Debug\netcoreapp3.1\Pokemon Server.exe
+C:\Users\danie\source\repos\Pokemon Server\bin\Debug\netcoreapp3.1\Pokemon Server.deps.json
+C:\Users\danie\source\repos\Pokemon Server\bin\Debug\netcoreapp3.1\Pokemon Server.runtimeconfig.json
+C:\Users\danie\source\repos\Pokemon Server\bin\Debug\netcoreapp3.1\Pokemon Server.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Pokemon Server\bin\Debug\netcoreapp3.1\Pokemon Server.dll
+C:\Users\danie\source\repos\Pokemon Server\bin\Debug\netcoreapp3.1\Pokemon Server.pdb
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.dll
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.pdb
+C:\Users\danie\source\repos\Pokemon Server\obj\Debug\netcoreapp3.1\Pokemon Server.genruntimeconfig.cache
